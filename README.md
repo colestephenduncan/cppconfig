@@ -2,11 +2,11 @@
 
 Sat Feb  8 17:58:18 EST 2025 
 
-Custom Configuration for c++ config.
+Custom Configuration for c++
 
 Instructions:
 
-Simply run the bash script located is /src direcotry, specify the output directory and name the project
+Simply run the bash script located in /src direcotry, specify the output directory and name the project
 
 
 Additional Info:
